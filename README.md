@@ -1,4 +1,4 @@
-# montecarlo
+# Montecarlo
 
 <br>
      This is a financial risk management tool that uses Monte Carlo simulations<br>
@@ -15,8 +15,6 @@
 
 
 <h3>Changelog:</h3>
-<br>
-<br>
 <br>
     v0.0.3 - modularity implemented, preparations for future input file parsing (v0.0.4)<br>
     v0.0.2 - basic functionality working<br>
