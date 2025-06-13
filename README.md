@@ -13,9 +13,9 @@
      Instituto Superior Técnico, University of Lisbon, Portugal.<br>
 <br>
 
-#changelog
 
-Changelog:<br>
+<h3>Changelog:</h3>
+<br>
 <br>
 <br>
     v0.0.3 - modularity implemented, preparations for future input file parsing (v0.0.4)<br>
