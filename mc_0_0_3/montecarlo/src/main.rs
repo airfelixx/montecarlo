@@ -11,7 +11,7 @@
 //     Instituto Superior Técnico, University of Lisbon, Portugal.
 //
 //     version 0.0.3
-//     09/06/2025
+//     13/06/2025
 //
 
 mod simulation;
@@ -21,9 +21,9 @@ fn main() {
     //example portfolio configuration
     let portfolio = structs::Portfolio {  // Remove mut since we're not modifying it anymore
         initial_investment: 3340.0,          // Initial investment amount      
-        expected_yearly_return: 0.057,         // Expected annual return (10%)
+        expected_yearly_return: 0.1,         // Expected annual return (10%)
         monthly_contributions: 50.0,          // Monthly contributions to the portfolio
-        volatility: 0.01,                      // Annual volatility (10%)
+        volatility: 0.1,                      // Annual volatility (10%)
         years: 3,                             // Number of years to simulate
         goal: 5800.0,                         // Financial goal to be achieved
         num_simulations: 1000000,                 // Number of Monte Carlo simulations to run
